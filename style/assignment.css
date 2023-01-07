@@ -1,0 +1,172 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+  display: relative;
+   margin: 0;
+}
+
+.banner-title{
+    position: absolute;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+}
+.banner-description{
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+     line-height: 26px;
+    text-align: right;
+    color: #444343;
+    width: 494px;
+     height: 78px;
+     left: 876px;
+      top: 468px;
+      
+}
+.btn-primary{
+    color: #FFFFFF;
+  font-weight: 600;
+   font-size: 20px;
+   border: 0;
+   padding: 20px 26px;
+   height: 64px;
+   border-radius: 5px;
+    background:#F15B22;
+    position: absolute;
+   width: 160px;
+   left: 1210px;
+    top: 578px;
+
+  }
+   .container{
+    display: flex;
+    gap: 140px;
+    margin-top: 160px;
+    margin-left: 200px;
+   
+    }
+  .container-info{
+    margin-top: 170px;
+    margin-right: 220px;
+   }
+   .container img{
+   background-size: cover;
+   background-color: antiquewhite;
+     width: 572.18px;
+   height: 723.3px;
+    left: 500px;
+    top: 400px;
+    
+
+   }
+   .container-title{
+    font-weight: 700;
+font-size: 40px;
+
+  }
+  .container-description{
+    font-weight: 400;
+font-size: 16px;
+
+  }
+  .container-list{
+    font-weight: 400;
+font-size: 16px;
+
+    
+  }
+  .section-title{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+margin-top: 130px;
+margin-bottom: 50px;
+  }
+  .skill-container{
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    gap: 60px;
+  }
+  .skill{
+    
+  }
+  .skill-title{
+    font-weight: 700;
+    font-size: 30px;
+  }
+  .skill-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+  }
+  .gradient-img{
+    margin: 130px 230px;
+    border-radius: 8px;
+    background-image: url('../images/gradient2.png');
+    background-image: linear-gradient(red);
+    
+    
+  }
+  .gradient.info{
+    
+  }
+  .gradient-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    
+    /* color: #FFFFFF; */
+  }
+  .btn-secondary{
+    padding: 20px 36px;
+   color: #F15B22;
+   font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: #FFFFFF;
+    width: 160px;
+height: 64px;
+  }
+  .footer{
+    display: flex;
+    width: 1600px;
+     height: 577px;
+     
+
+     
+  }
+  .future{
+    margin-left: 230px;
+    margin-right: 900px;
+    margin-top: 140px;
+    margin-bottom: 120px;
+
+  }
+  .future-title{
+    font-weight: 700;
+font-size: 45px;
+
+ }
+ .future-description{
+    font-weight: 300;
+font-size: 9px;
+ }
+ .email{
+    font-size: 9px;
+ }
+ .phone{
+    font-size: 9px;
+ }
+ .subscribe{
+    text-align: left;
+   
+ }
